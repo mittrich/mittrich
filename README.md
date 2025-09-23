@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm mittrich from Vietnam<br><br>- 🔭 I’m working as computer worker<br>- 📚 I'm currently working at a computer and camera shop at hometown<br>- ⚡ In my free time I play video games, listen music, search for something stupid and weird</p>
 
 ###
 
@@ -65,7 +65,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mittrich&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mittrich&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mittrich&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mittrich&theme=github_dark"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mittrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 </div>
