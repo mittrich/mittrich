@@ -69,8 +69,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mittrich&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mittrich&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mittrich&theme=github_dark"/><br>
-  <img src="https://streak-stats.demolab.com/?user=mittrich&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3%22%20height=%22150%22%20alt=%22streak%20graph" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mittrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=mittrich&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3%22%20height=%22150%22%20alt=%22streak%20graph" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mittrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
