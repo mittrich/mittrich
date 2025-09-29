@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm mittrich from Vietnam<br><br>- 🔭 I’m working as computer worker<br>- 📚 I'm currently working at a computer and camera shop at hometown<br>- ⚡ In my free time I play video games, listen music, search for something stupid and weird</p>
+<p align="left">I'm mittrich from Vietnam<br>- 🔭 I’m working as computer worker<br>- 📚 I'm currently working at a computer and camera shop at hometown<br>- ⚡ In my free time I play video games, listen music, search for something stupid and weird</p>
 
 ###
 
